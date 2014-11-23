@@ -80,7 +80,7 @@ class Breadcrumb
         return $this;
     }
 
-    public function setseparator($separator)
+    public function setSeparator($separator)
     {
         $this->separator = $separator;
 
